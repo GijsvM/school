@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Calculator with Serial Monitor input challenge",
+			"path": "D:/tech/Projects/Calculator with Serial Monitor input challenge"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "webshop files"
+	}
+}
